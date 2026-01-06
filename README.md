@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><a href=https://tjqud531531.tistory.com/148>아침 스터디 32 - CISC와 RISC</a></br><a href=https://tjqud531531.tistory.com/147>아침 스터디 31 - 명령어 집합 구조</a></br><a href=https://tjqud531531.tistory.com/146>아침 스터디 30 - 명령어 병렬 처리 기법</a></br><a href=https://tjqud531531.tistory.com/145>아침 스터디 29 - 빠른 CPU 설계기법 (스레드)</a></br><a href=https://tjqud531531.tistory.com/144>아침 스터디 28 - 빠른 CPU 설계기법 (코어)</a></br></ul>
+<ul><a href=https://tjqud531531.tistory.com/149>아침 스터디 33 - RAM의 특성과 종류</a></br><a href=https://tjqud531531.tistory.com/148>아침 스터디 32 - CISC와 RISC</a></br><a href=https://tjqud531531.tistory.com/147>아침 스터디 31 - 명령어 집합 구조</a></br><a href=https://tjqud531531.tistory.com/146>아침 스터디 30 - 명령어 병렬 처리 기법</a></br><a href=https://tjqud531531.tistory.com/145>아침 스터디 29 - 빠른 CPU 설계기법 (스레드)</a></br></ul>
