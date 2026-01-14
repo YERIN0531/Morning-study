@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><a href=https://tjqud531531.tistory.com/152>아침 스터디 36 - 캐시메모리</a></br><a href=https://tjqud531531.tistory.com/151>아침 스터디 35 - 논리주소/물리주소/베이스레지스터</a></br><a href=https://tjqud531531.tistory.com/150>아침 스터디 34 - 메모리의 주소공간(논리주소와 물리주소)</a></br><a href=https://tjqud531531.tistory.com/149>아침 스터디 33 - RAM의 특성과 종류</a></br><a href=https://tjqud531531.tistory.com/148>아침 스터디 32 - CISC와 RISC</a></br></ul>
+<ul><a href=https://tjqud531531.tistory.com/153>아침 스터디 37 - 캐시메모리2</a></br><a href=https://tjqud531531.tistory.com/152>아침 스터디 36 - 캐시메모리</a></br><a href=https://tjqud531531.tistory.com/151>아침 스터디 35 - 논리주소/물리주소/베이스레지스터</a></br><a href=https://tjqud531531.tistory.com/150>아침 스터디 34 - 메모리의 주소공간(논리주소와 물리주소)</a></br><a href=https://tjqud531531.tistory.com/149>아침 스터디 33 - RAM의 특성과 종류</a></br></ul>
